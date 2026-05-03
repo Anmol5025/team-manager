@@ -42,6 +42,26 @@ This is a full-stack application consisting of a React + Vite frontend and a Nod
    ```
    *(Or standard start command like `npm start` or `node server.js`)*
 
+## Features & Functions
+
+### Authentication & Authorization
+- Secure User Authentication (Signup & Login)
+- JWT (JSON Web Tokens) based session management
+- Role-Based Access Control (RBAC)
+
+### Dashboard
+- Comprehensive overview of activities and statistics
+- Responsive, premium UI design
+
+### Project Management
+- Create, view, update, and delete projects
+- Role-specific visibility and control over project details
+
+### Task Management
+- Assign tasks to team members
+- Track task status and progress
+- Organize and categorize tasks effectively
+
 ## Technologies
-- **Frontend:** React, Vite
-- **Backend:** Node.js, Express (and MongoDB based on the models)
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB (Mongoose)
